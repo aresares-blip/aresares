@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Ares]
 
 I am an educator and developer passionate about the intersection of technology, inclusive education, and gamification. I specialize in building digital tools and interactive environments designed to reduce cognitive load and help learners master complex concepts.
 
